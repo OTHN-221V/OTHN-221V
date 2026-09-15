@@ -1,12 +1,12 @@
 <!-- ═══════════════════ HERO SECTION ═══════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Othmane%20Namyech&fontSize=60&fontAlignY=35&desc=Embedded%20Systems%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Hero Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:001F54&height=220&section=header&text=Othmane%20Namyech&fontSize=60&fontAlignY=35&desc=Embedded%20Systems%20Engineer&descAlignY=55&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Hero Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/OTHN-221V">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=%3E+Firmware+%7C+SoCs+%7C+RTOS;%3E+Building+low-level+software+that+ships;%3E+Optimizing+until+there's+nothing+left+to+cut;%3E+%5B+STATUS%3A+OPEN+TO+2027+PFE+%5D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&random=false&width=650&lines=%3E+Firmware+%7C+SoCs+%7C+RTOS;%3E+Building+low-level+software+that+ships;%3E+Optimizing+until+there's+nothing+left+to+cut;%3E+%5B+STATUS%3A+OPEN+TO+2027+PFE+%5D" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
   <a href="https://github.com/OTHN-221V/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-00599C?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=OTHN-221V&label=VISITORS&color=36BCF7&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=OTHN-221V&label=VISITORS&color=00C6FF&style=for-the-badge" alt="Visitors" />
 </div>
 
 <!-- ═══════════════════ NAVIGATION ═══════════════════ -->
@@ -44,7 +44,7 @@
 <!-- ═══════════════════ ABOUT ═══════════════════ -->
 
 <a id="-about"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f2027&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F54&height=3&section=header" width="100%" />
 
 <h2 align="center">⚡ About</h2>
 
@@ -65,7 +65,7 @@ I don't just build. **I optimize.** Half the memory, twice the throughput, a fra
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 <a id="-tech-stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f2027&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F54&height=3&section=header" width="100%" />
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -74,21 +74,30 @@ I don't just build. **I optimize.** Half the memory, twice the throughput, a fra
 ### ⚙️ Firmware & Software
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![RTOS](https://img.shields.io/badge/RTOS-20232A?style=for-the-badge&logo=freertos&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20for%20ML-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bare-Metal](https://img.shields.io/badge/Bare--Metal-333333?style=for-the-badge)
-![HLS](https://img.shields.io/badge/High--Level%20Synthesis-8E44AD?style=for-the-badge)
+![RTOS](https://img.shields.io/badge/RTOS-20232A?style=for-the-badge&logo=freertos&logoColor=white)
+![HLS](https://img.shields.io/badge/High--Level%20Synthesis%20(C%2FC%2B%2B%20%E2%86%92%20VHDL%2FVerilog)-8E44AD?style=for-the-badge)
 
 ### 🔌 Hardware & SoCs
-![Xilinx Zynq](https://img.shields.io/badge/Xilinx%20Zynq--7000-000000?style=for-the-badge&logo=amd&logoColor=white)
-![ESP32](https://img.shields.io/badge/Espressif%20ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![TI DSPs](https://img.shields.io/badge/TI%20C6000%20DSPs-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
-![Siemens PLC](https://img.shields.io/badge/Siemens%20SIMATIC-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![Xilinx Zynq](https://img.shields.io/badge/AMD%20Xilinx%20Zynq%20SoCs%20(CPU%2BFPGA)-000000?style=for-the-badge&logo=amd&logoColor=white)
+![ESP32](https://img.shields.io/badge/Espressif%20ESP32%20MCUs-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![TI DSPs](https://img.shields.io/badge/Texas%20Instruments%20C6000%20DSPs-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![Siemens PLC](https://img.shields.io/badge/Siemens%20SIMATIC%20PLCs-009999?style=for-the-badge&logo=siemens&logoColor=white)
 
-### 📡 Protocols & Tooling
+### 📡 Protocols
 ![CAN / LIN](https://img.shields.io/badge/CAN%20%7C%20LIN-005571?style=for-the-badge)
 ![UART / SPI / I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-005571?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Vivado%20%2F%20Vitis-000000?style=for-the-badge&logo=amd&logoColor=white)
+![AES-256](https://img.shields.io/badge/AES--256%20Encryption-1B4F72?style=for-the-badge)
+![DVB-T](https://img.shields.io/badge/DVB--T-1B4F72?style=for-the-badge)
+
+### 🧰 IDEs & Design Tools
+![Vivado HLS](https://img.shields.io/badge/Vivado%20HLS-000000?style=for-the-badge&logo=amd&logoColor=white)
+![Vivado Design Suite](https://img.shields.io/badge/Vivado%20Design%20Suite-000000?style=for-the-badge&logo=amd&logoColor=white)
+![Vitis](https://img.shields.io/badge/Vitis-000000?style=for-the-badge&logo=amd&logoColor=white)
+![MATLAB & Simulink](https://img.shields.io/badge/MATLAB%20%26%20Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Code Composer Studio](https://img.shields.io/badge/Code%20Composer%20Studio-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![TIA Portal](https://img.shields.io/badge/TIA%20Portal-009999?style=for-the-badge&logo=siemens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -98,7 +107,7 @@ I don't just build. **I optimize.** Half the memory, twice the throughput, a fra
 <!-- ═══════════════════ TRACK RECORD ═══════════════════ -->
 
 <a id="-track-record"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f2027&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F54&height=3&section=header" width="100%" />
 
 <h2 align="center">🏆 Track Record</h2>
 
@@ -159,13 +168,13 @@ I don't just build. **I optimize.** Half the memory, twice the throughput, a fra
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
 <a id="-featured-projects"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f2027&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F54&height=3&section=header" width="100%" />
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   <a href="https://github.com/OTHN-221V/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTHN-221V&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=36BCF7&icon_color=36BCF7" alt="Portfolio Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OTHN-221V&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=001F54&title_color=00C6FF&icon_color=00C6FF" alt="Portfolio Repo" />
   </a>
 </div>
 
@@ -233,7 +242,7 @@ I don't just build. **I optimize.** Half the memory, twice the throughput, a fra
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <a id="-lets-connect"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0f2027&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:001F54&height=3&section=header" width="100%" />
 
 <h2 align="center">📬 Let's Connect</h2>
 
@@ -264,5 +273,5 @@ My inbox is always open.
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F54,50:0072FF,100:00C6FF&height=140&section=footer&text=Thanks%20for%20stopping%20by&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="Footer" />
 </div>
